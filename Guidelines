@@ -1,0 +1,4 @@
+Understand the principles of quantum cryptography, including Quantum Key Distribution (QKD), and its application in secure communication.
+Familiarize yourself with quantum computing frameworks, such as Qiskit, and cryptographic libraries, such as cryptography, for implementation.
+Generate quantum keys using a QKD protocol and ensure their secure distribution.
+Implement encryption and decryption algorithms using the quantum keys to protect OSINT data during transmission.
