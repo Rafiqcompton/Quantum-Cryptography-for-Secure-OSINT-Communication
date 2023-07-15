@@ -1,0 +1,8 @@
+To use the quantum cryptography algorithm for secure OSINT communication, follow these steps:
+
+Generate quantum keys using the generate_quantum_keys function.
+Encrypt the OSINT data using the encrypt_osint_data function and the generated quantum keys.
+Transmit the encrypted data securely.
+On the receiving end, decrypt the data using the decrypt_osint_data function and the shared quantum keys.
+Access the decrypted OSINT data for further analysis or processing.
+Please note that the code snippets provided are simplified examples and may require further implementation and customization based on specific requirements and cryptographic protocols.
